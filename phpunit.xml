@@ -7,7 +7,7 @@
             <file>./tests/Algorithm/BinarySearchTest.php</file>
         </testsuite>
          <testsuite name="SelectionSort">
-            <file>tests/Algorithm/SelectionSortTest.php</file>
+            <file>./tests/Algorithm/SelectionSortTest.php</file>
         </testsuite>
         <!-- <testsuite name="Adapter">
             <directory>./tests/DesignPattern</directory>
